@@ -4,7 +4,7 @@ A native Windows app for discovering Silkroad Online private servers and their p
 
 ## Run
 
-Open **Windows/SilkroadAtlas.exe**. On another computer, extract **SilkroadAtlas-Windows-x64.zip** and open **SilkroadAtlas.exe**. Keep the **Assets** folder alongside the executable. No separate .NET installation is needed. Built for Windows x64; tested on Windows 11.
+THIS IS THE SOURCE CODE. COMPILE IT
 
 The initial catalog contains **1,661 listings and 448 distinct Discord invite links**, collected on **30 September–1 October 2026**. These are directory listings, including older advertisements; they are **not confirmed active game servers**.
 
