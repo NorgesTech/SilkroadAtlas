@@ -1,0 +1,4 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><OutputType>WinExe</OutputType><TargetFramework>net10.0-windows</TargetFramework><UseWPF>true</UseWPF><AssemblyName>SilkroadAtlas</AssemblyName><RootNamespace>SilkroadAtlas</RootNamespace><Version>1.1.0</Version><ApplicationIcon>Assets/atlas.ico</ApplicationIcon></PropertyGroup>
+  <ItemGroup><ProjectReference Include="../Core/Core.csproj"/><Resource Include="Assets/atlas.ico"/><Content Include="Assets/seed.json"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></Content></ItemGroup>
+</Project>
